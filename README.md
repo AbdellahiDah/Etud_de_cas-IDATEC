@@ -2,8 +2,7 @@
 
 Dans le cadre de ce projet, nous avons accompli les tâches suivantes:
 
-### Analyse des Données Financières Marocaines:
-
+### **Analyse des Données Financières Marocaines: **
 Exploration approfondie des données financières marocaines pour différentes variables, notamment les indices généraux, les avoirs officiels, les taux de change, la monnaie, l'inflation, les indices de taux, et les indices sectoriels.
 ### Exploration Temporelle des Données:
 
